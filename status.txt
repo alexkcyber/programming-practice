@@ -1,4 +1,8 @@
 leetcode-patterns
 -----------------
 
-1) 		Containes Duplicate
+1) 		(217 - Easy) Containes Duplicate
+			Started: 	03/11/2022
+			Finished: 03/11/2022
+			Revisit: 	03/18/2022
+			Pattern: 	Hashmap/dictionary
