@@ -1,8 +1,14 @@
 leetcode-patterns
 -----------------
 
-1) 		(217 - Easy) Containes Duplicate
+1) 		(217 - Easy) Containes Duplicate (R)
 			Started: 	03/11/2022
 			Finished: 03/11/2022
 			Revisit: 	03/18/2022
 			Pattern: 	Hashmap/dictionary
+
+2) 		(268 - Easy) Missing Number (R)
+			Started: 	03/11/2022
+			Finished: 03/11/2022
+			Revisit: 	03/18/2022
+			Pattern: Bit manipulation, XORing to find an answer
