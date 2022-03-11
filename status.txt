@@ -1,0 +1,4 @@
+leetcode-patterns
+-----------------
+
+1) 		Containes Duplicate
