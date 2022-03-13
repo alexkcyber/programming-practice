@@ -12,3 +12,9 @@ leetcode-patterns
 			Finished: 03/11/2022
 			Revisit: 	03/18/2022
 			Pattern: Bit manipulation, XORing to find an answer
+
+3) 		(448 - Easy) Find All Numbers Disappeared in an Array (R)
+			Started: 	03/13/2022
+			Finished: 03/13/2022
+			Revisit: 	03/20/2022
+			Pattern: Hashmap/dictionary
