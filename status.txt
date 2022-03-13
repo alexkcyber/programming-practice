@@ -24,3 +24,9 @@ leetcode-patterns
 			Finished:	03/13/2022
 			Revisit: 	03/20/2022
 			Pattern: 	Bit manipulation, XORing to find the answer
+
+5) 		(70 - Easy) Climbing Stairs (R)
+			Started: 	03/13/2022
+			Finished: 03/13/2022
+			Revisit: 	03/20/2022
+			Pattern: Dynamic Programming
