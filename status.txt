@@ -3,21 +3,21 @@ leetcode-patterns
 
 1) 		(217 - Easy) Containes Duplicate (R)
 			Started: 	03/11/2022
-			Finished: 03/11/2022
+			Finished:	03/11/2022
 			Revisit: 	03/18/2022
 			Pattern: 	Hashmap/dictionary
 
 2) 		(268 - Easy) Missing Number (R)
 			Started: 	03/11/2022
-			Finished: 03/11/2022
+			Finished:	03/11/2022
 			Revisit: 	03/18/2022
-			Pattern: Bit manipulation, XORing to find an answer
+			Pattern: 	Bit manipulation, XORing to find an answer
 
 3) 		(448 - Easy) Find All Numbers Disappeared in an Array (R)
 			Started: 	03/13/2022
-			Finished: 03/13/2022
+			Finished:	03/13/2022
 			Revisit: 	03/20/2022
-			Pattern: Hashmap/dictionary
+			Pattern: 	Hashmap/dictionary
 
 4) 		(136 - Easy) Single Number (R)
 			Started: 	03/13/2022
@@ -27,12 +27,12 @@ leetcode-patterns
 
 5) 		(70 - Easy) Climbing Stairs (R)
 			Started: 	03/13/2022
-			Finished: 03/13/2022
+			Finished:	03/13/2022
 			Revisit: 	03/20/2022
-			Pattern: Dynamic Programming
+			Pattern:	Dynamic Programming
 
 6) 		(121 - Easy) Best Time to Buy and Sell Stock (R)
 			Started: 	03/13/2022
-			Finished: 03/13/2022
+			Finished:	03/13/2022
 			Revisit: 	03/21/2022
-			Pattern: Two pointers/sliding window
+			Pattern: 	Two pointers/sliding window
