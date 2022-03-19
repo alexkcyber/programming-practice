@@ -1,13 +1,13 @@
 leetcode-patterns
 -----------------
 
-1) 		(217 - Easy) Containes Duplicate (R)
+1) 		(217 - Easy) Containes Duplicate
 			Started: 	03/11/2022
 			Finished:	03/11/2022
 			Revisit: 	03/18/2022
 			Pattern: 	Hashmap/dictionary
 
-2) 		(268 - Easy) Missing Number (R)
+2) 		(268 - Easy) Missing Number
 			Started: 	03/11/2022
 			Finished:	03/11/2022
 			Revisit: 	03/18/2022
@@ -37,7 +37,7 @@ leetcode-patterns
 			Revisit: 	03/21/2022
 			Pattern: 	Two pointers/sliding window
 
-7) 		(53 - Easy) Maximum Subarray
+7) 		(53 - Easy) Maximum Subarray (R)
 			Started: 	03/17/2022
 			Finished:	03/17/2022
 			Revisit: 	03/24/2022
